@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="Hardware/circuit.png" width="900">
+</p>
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-red)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-AI-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 #  AI-Based Driver Monitoring and Vehicle Anomaly Detection System using ESP32
 
 Embedded Systems | Computer Vision | Real-Time Vehicle Safety System
@@ -195,6 +205,8 @@ Then:
 | RPM Abnormal | Alert activated |
 | Combined Conditions | Full safety response |
 
+![OUTPUT](result/output1.png)
+
 ---
 
 #  Project Demonstration
@@ -225,6 +237,29 @@ Documentation includes:
 - Future Scope
 
 ---
+
+##  Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Kesihambigai22/AI-Based-Driver-Monitoring-and-Vehicle-Anomaly-Detection-System.git
+```
+
+### Install Dependencies
+
+```bash
+pip install opencv-python mediapipe numpy pyserial
+```
+
+### Run Python Code
+
+```bash
+python drowsiness_detection.py
+```
+
+### Upload ESP32 Code
+Upload `esp32_driver_monitoring.ino` using Arduino IDE.
 
 #  Future Scope
 
