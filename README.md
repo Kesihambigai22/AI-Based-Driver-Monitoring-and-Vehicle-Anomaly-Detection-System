@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Hardware/circuit.png" width="900">
-</p>
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![ESP32](https://img.shields.io/badge/ESP32-Embedded-green)
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-red)
@@ -105,6 +101,8 @@ Motor PWM + Buzzer Alert
 | Active Buzzer | 1 |
 | Breadboard | 1 |
 | Jumper Wires | Multiple |
+
+![Image](result/setup2.png)
 
 ---
 
